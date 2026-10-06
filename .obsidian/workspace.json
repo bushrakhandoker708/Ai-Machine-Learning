@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/01.Data Gathering/01.Working with csv files.md",
+                "file": "04.ML/01.Data Gathering/03.Fetching data from API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Working with csv files"
+              "title": "03.Fetching data from API"
             }
           },
           {
@@ -266,10 +266,10 @@
   },
   "active": "ccc5343458068187",
   "lastOpenFiles": [
-    "04.ML/01.Data Gathering/04.Web Scrapping.md",
-    "04.ML/01.Data Gathering/01.Working with csv files.md",
-    "04.ML/01.Data Gathering/03.Fetching data from API.md",
     "04.ML/01.Data Gathering/02.Working with json or sql.md",
+    "04.ML/01.Data Gathering/01.Working with csv files.md",
+    "04.ML/01.Data Gathering/04.Web Scrapping.md",
+    "04.ML/01.Data Gathering/03.Fetching data from API.md",
     "04.ML/01.Data Gathering/00.Data Gathering.md",
     "04.ML/00.Foundations/03.Statistical Learning Theory.md",
     "04.ML/00.Foundations/02.The Learning Problem.md",
