@@ -293,16 +293,15 @@
               "type": "copilot-chat-view",
               "state": {},
               "icon": "message-square",
-              "title": "Copilot"
+              "title": "Copilot (Quick Chat)"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,10 +316,11 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "2713418bfe5c3923",
+  "active": "7de02ea2cf249332",
   "lastOpenFiles": [
     "04.ML/02.Understanding Data/00.Understanding Data.md",
     "04.ML/02.Understanding Data/03.Automated EDA.md",
