@@ -111,12 +111,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/02.Understanding Data/02.EDA using Multivariate Analysis.md",
+                "file": "04.ML/02.Understanding Data/03.Automated EDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.EDA using Multivariate Analysis"
+              "title": "03.Automated EDA"
+            }
+          },
+          {
+            "id": "611d85d5a45a07d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.ML/04.Feature Engineering/00.Feature Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00.Feature Engineering"
+            }
+          },
+          {
+            "id": "093b71ae296c385d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.ML/04.Feature Engineering/01.Standardization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.Standardization"
+            }
+          },
+          {
+            "id": "c4ea9462e0a49ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.ML/04.Feature Engineering/02.Normalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.Normalization"
             }
           },
           {
@@ -134,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -193,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 395.5
   },
   "right": {
     "id": "02fc3c8a42a530d5",
@@ -334,17 +375,20 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "362fe53c2149b07f",
+  "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "04.ML/04.Feature Engineering",
-    "04.ML/12.Practice/03.Model Interpretability.md",
-    "04.ML/01.ML Algorithms.md",
-    "04.ML/11.Features/01.Data Preprocessing.md",
-    "04.ML/11.Features/02.Feature Engineering.md",
-    "04.ML/11.Features/03.Feature Selection.md",
+    "04.ML/04.Feature Engineering/01.Standardization.md",
+    "04.ML/04.Feature Engineering/02.Normalization.md",
+    "04.ML/04.Feature Engineering/00.Feature Engineering.md",
     "04.ML/02.Understanding Data/03.Automated EDA.md",
     "04.ML/02.Understanding Data/02.EDA using Multivariate Analysis.md",
+    "Untitled.md",
+    "04.ML/04.Feature Engineering",
+    "04.ML/13.Practice/03.Model Interpretability.md",
+    "04.ML/01.ML Algorithms.md",
+    "04.ML/12.Features/01.Data Preprocessing.md",
+    "04.ML/12.Features/02.Feature Engineering.md",
+    "04.ML/12.Features/03.Feature Selection.md",
     "04.ML/02.Understanding Data/01.EDA using Univariate Analysis.md",
     "04.ML/02.Understanding Data/00.Understanding Data.md",
     "04.ML/02.Understanding Data",
@@ -362,8 +406,6 @@
     "04.ML/03.Supervised Learning/03.Generalised Linear Models.md",
     "images/Pasted image 20260616091626.png",
     "04.ML/03.Supervised Learning/01.Linear Regression.md",
-    "04.ML/00.Foundations/08.How to Frame an ML Problem.md",
-    "04.ML/00.Foundations/07.Steps of Machine Learning.md",
     "Pasted image 20260616091305.png",
     "images/Pasted image 20260616090427.png",
     "images/Pasted image 20260616090217.png",
