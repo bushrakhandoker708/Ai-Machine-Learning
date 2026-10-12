@@ -331,7 +331,6 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "copilot:Open Copilot Chat": false,
       "copilot:Open Copilot Agent Chat": false
     }
   },
