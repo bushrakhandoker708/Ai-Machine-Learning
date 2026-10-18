@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
+                "file": "04.ML/08.Unsupervised learning/04.Representation Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. One-Hot Encoding (OHE)"
+              "title": "04.Representation Learning"
             }
           },
           {
@@ -405,8 +405,17 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "04.ML/03.Feature Engineering/03.Encoding Catagorical Data.md",
+    "04.ML/08.Unsupervised learning/03.Density Estimation.md",
+    "04.ML/08.Unsupervised learning/02.Dimensionality Reduction/01.Principal Component Analysis(PCA).md",
+    "04.ML/07.Supervised Learning/07.k-Nearest Neighbours.md",
+    "04.ML/07.Supervised Learning/06.Naive Bayes.md",
+    "04.ML/07.Supervised Learning/05.Decision Trees.md",
+    "04.ML/07.Supervised Learning/04.Support Vector Machines.md",
+    "04.ML/07.Supervised Learning/03.Generalised Linear Models.md",
+    "04.ML/07.Supervised Learning/02.Logistic Regression.md",
+    "04.ML/07.Supervised Learning/01.Linear Regression.md",
     "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
+    "04.ML/03.Feature Engineering/03.Encoding Catagorical Data.md",
     "04.ML/03.Feature Engineering/02.Feature Scaling- Normalization.md",
     "04.ML/03.Feature Engineering/01.Feature Scaling- Standardization.md",
     "04.ML/03.Feature Engineering/00.Feature Engineering.md",
@@ -423,16 +432,7 @@
     "04.ML/01.ML Algorithms.md",
     "04.ML/12.Features/01.Data Preprocessing.md",
     "04.ML/02.Understanding Data/01.EDA using Univariate Analysis.md",
-    "04.ML/02.Understanding Data/00.Understanding Data.md",
     "04.ML/02.Understanding Data",
-    "04.ML/01.Data Gathering/04.Web Scrapping.md",
-    "04.ML/01.Data Gathering/03.Fetching data from API.md",
-    "04.ML/01.Data Gathering/02.Working with json or sql.md",
-    "04.ML/01.Data Gathering/01.Working with csv files.md",
-    "04.ML/01.Data Gathering/00.Data Gathering.md",
-    "04.ML/07.Supervised Learning/07.k-Nearest Neighbours.md",
-    "04.ML/07.Supervised Learning/06.Naive Bayes.md",
-    "04.ML/07.Supervised Learning/05.Decision Trees.md",
     "images/Pasted image 20260616091626.png",
     "Pasted image 20260616091305.png",
     "images/Pasted image 20260616090427.png",
