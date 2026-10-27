@@ -341,7 +341,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": "4.0.13",
-  "lastShownStartupVersion": "4.0.15",
+  "lastShownStartupVersion": "4.0.16",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -437,10 +437,7 @@
         "description": "A frontier open-weight model.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -498,10 +495,7 @@
         "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
