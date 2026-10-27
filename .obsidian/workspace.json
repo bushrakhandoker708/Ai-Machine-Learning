@@ -181,12 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/08.Unsupervised learning/04.Representation Learning.md",
+                "file": "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.Representation Learning"
+              "title": "04. One-Hot Encoding (OHE)"
+            }
+          },
+          {
+            "id": "1386559d0a36e08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.ML/03.Feature Engineering/05.Column Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.Column Transformer"
             }
           },
           {
@@ -204,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -405,6 +419,14 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
+    "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
+    "04.ML/03.Feature Engineering/05.Column Transformer.md",
+    "04.ML/04.Evaluation/04.Bias Variance Tradeoff.md",
+    "04.ML/04.Evaluation/05.Hyperparameter Tuning.md",
+    "04.ML/05.Ensemble/01.Bagging and Random Forests.md",
+    "04.ML/05.Ensemble/02.Boosting.md",
+    "04.ML/05.Ensemble/03.Stacking.md",
+    "04.ML/08.Unsupervised learning/04.Representation Learning.md",
     "04.ML/08.Unsupervised learning/03.Density Estimation.md",
     "04.ML/08.Unsupervised learning/02.Dimensionality Reduction/01.Principal Component Analysis(PCA).md",
     "04.ML/07.Supervised Learning/07.k-Nearest Neighbours.md",
@@ -414,7 +436,6 @@
     "04.ML/07.Supervised Learning/03.Generalised Linear Models.md",
     "04.ML/07.Supervised Learning/02.Logistic Regression.md",
     "04.ML/07.Supervised Learning/01.Linear Regression.md",
-    "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
     "04.ML/03.Feature Engineering/03.Encoding Catagorical Data.md",
     "04.ML/03.Feature Engineering/02.Feature Scaling- Normalization.md",
     "04.ML/03.Feature Engineering/01.Feature Scaling- Standardization.md",
@@ -424,14 +445,7 @@
     "04.ML/00.Foundations/01.What is Machine Learning.md",
     "04.ML/12.Features/03.Feature Selection.md",
     "04.ML/12.Features/02.Feature Engineering.md",
-    "04.ML/02.Understanding Data/03.Automated EDA.md",
-    "04.ML/02.Understanding Data/02.EDA using Multivariate Analysis.md",
-    "Untitled.md",
     "04.ML/03.Feature Engineering",
-    "04.ML/13.Practice/03.Model Interpretability.md",
-    "04.ML/01.ML Algorithms.md",
-    "04.ML/12.Features/01.Data Preprocessing.md",
-    "04.ML/02.Understanding Data/01.EDA using Univariate Analysis.md",
     "04.ML/02.Understanding Data",
     "images/Pasted image 20260616091626.png",
     "Pasted image 20260616091305.png",
