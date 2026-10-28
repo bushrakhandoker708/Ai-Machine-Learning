@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04.ML/03.Feature Engineering/05.Column Transformer.md",
+                "file": "04.ML/03.Feature Engineering/06.Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.Column Transformer"
+              "title": "06.Pipeline"
             }
           },
           {
@@ -419,8 +419,8 @@
   },
   "active": "5c706eeadd68b1b1",
   "lastOpenFiles": [
-    "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
     "04.ML/03.Feature Engineering/05.Column Transformer.md",
+    "04.ML/03.Feature Engineering/04. One-Hot Encoding (OHE).md",
     "04.ML/04.Evaluation/04.Bias Variance Tradeoff.md",
     "04.ML/04.Evaluation/05.Hyperparameter Tuning.md",
     "04.ML/05.Ensemble/01.Bagging and Random Forests.md",
